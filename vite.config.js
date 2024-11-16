@@ -3,7 +3,7 @@ const isCodeSandbox = !!process.env.SANDBOX_URL
 export default {
     root: "src/",
     publicDir: "../resources/",
-    base: "./Verkefni3/",
+    base: "/Verkefni3/",
     server:
     {
         host: true,
@@ -11,7 +11,7 @@ export default {
     },
     build:
     {
-        outDir: "../dist/Verkefni3",
+        outDir: "../dist",
         emptyOutDir: true,
         sourcemap: true
     }
