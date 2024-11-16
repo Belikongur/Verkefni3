@@ -3,7 +3,7 @@ const isCodeSandbox = !!process.env.SANDBOX_URL
 export default {
     root: "src/",
     publicDir: "../resources/",
-    base: "./",
+    base: "./Verkefni3/",
     server:
     {
         host: true,
