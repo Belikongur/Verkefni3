@@ -1,5 +1,6 @@
 {
-  "name": "Verkefni 3",
+  "name": "verkefni-3",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -13,5 +14,17 @@
   },
   "devDependencies": {
     "vite": "^5.4.10"
-  }
+  },
+  "description": "Verkefni 3 Frogger",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belikongur/Verkefni3.git"
+  },
+  "author": "Abel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belikongur/Verkefni3/issues"
+  },
+  "homepage": "https://github.com/Belikongur/Verkefni3#readme"
 }
