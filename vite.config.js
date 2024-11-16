@@ -11,7 +11,7 @@ export default {
     },
     build:
     {
-        outDir: "../dist",
+        outDir: "../dist/Verkefni3",
         emptyOutDir: true,
         sourcemap: true
     }
